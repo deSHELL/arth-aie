@@ -1,1 +1,1 @@
-# Arth : A Fast and Powerful Arthimetric Coding Language 🔥
+# AIE : A Fast and Powerful Package Manager For Equations for Arth 🔥

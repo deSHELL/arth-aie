@@ -1,2 +1,1 @@
-# arth-aie
-Arth : An Arithmetric Interpreter , AIE : Arth Install Equation
+# Arth : A Fast and Powerful Arthimetric Coding Language 🔥
